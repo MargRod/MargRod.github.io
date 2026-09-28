@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.margrod.twa",
+        "sha256_cert_fingerprints": ["0F:5D:1D:51:91:79:22:99:2F:53:3A:1E:7E:BB:3D:1C:E3:7F:E1:6F:F9:33:C3:B8:B5:FC:AD:34:83:85:76:BF"]
+      }
+    }]
