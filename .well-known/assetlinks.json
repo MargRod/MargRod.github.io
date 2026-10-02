@@ -5,4 +5,12 @@
         "package_name": "io.github.margrod.twa",
         "sha256_cert_fingerprints": ["0F:5D:1D:51:91:79:22:99:2F:53:3A:1E:7E:BB:3D:1C:E3:7F:E1:6F:F9:33:C3:B8:B5:FC:AD:34:83:85:76:BF"]
       }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.margrod.gym",
+        "sha256_cert_fingerprints": ["C5:64:25:24:09:25:7F:8A:B7:74:C4:02:00:77:E2:E7:8F:38:50:6E:4E:76:1D:E8:E1:A6:1B:66:9A:50:84:61"]
+      }
     }]
